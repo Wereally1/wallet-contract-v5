@@ -1,4 +1,4 @@
-# W5: wallet smart contract v5
+# W5: wallet smart contract sinebot finance tehnology DAO model 
 
 New version of wallet smart contract, the previous one was [v4r2](https://github.com/ton-blockchain/wallet-contract).
 
